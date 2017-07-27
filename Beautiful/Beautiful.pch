@@ -1,0 +1,38 @@
+//
+//  Beautiful.pch
+//  Beautiful
+//
+//  Created by S on 16/1/25.
+//  Copyright © 2016年 B. All rights reserved.
+//
+
+#ifndef Beautiful_pch
+#define Beautiful_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Beautiful_pch */
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+//#import "AppDelegate.h"
+#import "Global.h"
+#import "Utils.h"
+#import "EaseMob.h"
+#import "TTGlobalUICommon.h"
+#import "UIViewController+DismissKeyboard.h"
+#import "NSString+Valid.h"
+#import "EMAlertView.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+//#import "MobClick.h"
+//#import "MobClickGameAnalytics.h"
+//#import "EMSDKFull.h"
+#endif

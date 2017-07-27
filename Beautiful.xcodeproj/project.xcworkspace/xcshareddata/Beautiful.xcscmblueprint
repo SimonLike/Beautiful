@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9028ccc0-35d3-f147-9a2f-e780e3d3f7b5++9700",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9028ccc0-35d3-f147-9a2f-e780e3d3f7b5++9700" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9028ccc0-35d3-f147-9a2f-e780e3d3f7b5++9700" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "69B933FE-1267-4E46-B6F5-05825382AB7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9028ccc0-35d3-f147-9a2f-e780e3d3f7b5++9700" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Beautiful",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Beautiful\/Beautiful.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/120.24.250.201:8443\/svn\/mine",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9028ccc0-35d3-f147-9a2f-e780e3d3f7b5++9700"
+    }
+  ]
+}
